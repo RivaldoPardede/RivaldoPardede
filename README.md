@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Rivaldo Dominggos Pardede</h1>
 <h3 align="center">I'm currently crafting my journey in the tech world, embracing the role of a full-stack web developer🌐 while delving deeper into the realm of Android development👨‍💻. My interests extend to cybersecurity🔐, as I am intrigued by the intricacies of securing digital systems. With an insatiable appetite for learning, I am always eager to explore emerging technologies and expand my skill set</h3>
-<img align="right" alt="Coding" width="500" src="https://github.com/RivaldoPardede/RivaldoPardede/assets/114504295/163156c9-6cdf-4e21-9b6c-1f6ce0d16bb7">
+<img align="right" alt="Coding" width="400" src="https://github.com/RivaldoPardede/RivaldoPardede/assets/114504295/163156c9-6cdf-4e21-9b6c-1f6ce0d16bb7">
 
 - 🔭 I’m currently studying **computer science in University of North Sumatera**
 
